@@ -17,7 +17,7 @@ Current implemented features:
 I plan to implement:
 
  * Optimizations (skybox, face culling, shaders)
- * Add jbullent library for physics
+ * Add jbullet library for physics
  * Normal mapping
  * Shadows 
  * Text rendering
